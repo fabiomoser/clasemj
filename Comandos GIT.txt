@@ -5,7 +5,7 @@ git config --global user.email "direccion_mail@dominio.com"
 -----------------------------------------------------------------------------
 git init (inicializar git)
 git status (Veo el estado de los archivos)
-git add nombrearchivo / git add -A / (agrega todo al staging area)
+git add nombrearchivo / git add -A / git add . (agrega todo al staging area)
 git commit (i para insertar comentario, ESC para salir, :wq graba y sale) /
 git commit -m "Descripción del commit" (otra forma)
 git log (historial de commits) --oneline (abreviado)
